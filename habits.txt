@@ -5,3 +5,7 @@
 2. Have a 'get-it-done' attitude
     - instead of focusing on small problems that are actually not so important, such as environment configuration, or refactoring of the code until it is spotless, try to focus on the overall goal and keep things moving 
     - it is fun to play around with details in general, but it should not be at the expense of efficiency  
+
+3. Keep it simple
+    - don't be arrogant! keep the code as simple and consistent as possible, showing off will always eventually backfire no you  
+    - I think it is important to keep in mind that programmers are a team pursuing the same goal, and in a healthy team an individual's capabilities should be well appreciated so there's no need for bragging
