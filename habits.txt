@@ -13,3 +13,7 @@
 4. Have a consistent way to get in the zone (productive time)
     - explain to others that you need a specific undisturbed period of time
     - I believe that each colleague will understand as they need their undisturbed time as well
+
+5. Always learn, get out of your comfort zone
+    - learning new things is essential, one has to understand how different systems are put together in different environments in order to be able to debug
+    - this approach will ensure that you don't fall into a routine and feel outdated
