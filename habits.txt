@@ -17,3 +17,7 @@
 5. Always learn, get out of your comfort zone
     - learning new things is essential, one has to understand how different systems are put together in different environments in order to be able to debug
     - this approach will ensure that you don't fall into a routine and feel outdated
+
+6. Collaboration
+    - programming is a 'team sport' and your code must integrate with other people's code
+    - don't be afraid to ask for help, someone might have dealth with the same issue already, collaboration boosts productivity
