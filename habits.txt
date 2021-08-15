@@ -21,3 +21,7 @@
 6. Collaboration
     - programming is a 'team sport' and your code must integrate with other people's code
     - don't be afraid to ask for help, someone might have dealth with the same issue already, collaboration boosts productivity
+
+7. Get used to spending time alone
+    - get ready for the fact that you won't socialize that much as a programmer
+    - I think this can be resolved by spending all of your free time with your family, friends, colleagues etc. (plus, when you work from home, you can get a dog who will keep you company)
